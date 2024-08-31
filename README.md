@@ -15,10 +15,9 @@ Para acessar as funcionalidades do programa, é necessária uma Chave API da Goo
 1. Acesse o Google AI Studio com uma Conta Google: [https://aistudio.google.com](https://aistudio.google.com)
 2. Selecione "Get API key".
 3. Selecione "Criar chave de API" e Crie uma chave de API em um novo projeto.
-
-**Chave de API criada com sucesso!**
-
-**Copie a sua chave API para utilizar no projeto.** Clique no texto azul abaixo de "Chave de API" (ex: …xPhk) e copie a chave API gerada.
+4. Chave de API criada com sucesso!
+5.Copie a sua chave API para utilizar no projeto.
+6. Clique no texto azul abaixo de "Chave de API" (ex: …xPhk) e copie a chave API gerada.
 
 ### Configurando a Chave API no Projeto:
 
