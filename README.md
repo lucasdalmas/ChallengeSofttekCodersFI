@@ -21,10 +21,6 @@ Para acessar as funcionalidades do programa, é necessária uma Chave API da Goo
 
 ### Configurando a Chave API no Projeto:
 
-#### Back-End:
-
-Ao rodar o código "ProjectAI.java", a primeira coisa que será requisitada no terminal é a chave API. Certifique-se de inserir a sua chave API corretamente.
-
 #### Front-End + Back-End Integrado:
 
 1. Antes de rodar o projeto, abra o arquivo "comunicacao_gemini.js" na aplicação FRONTEND dentro da pasta "\js" e substitua a String "YOUR_API_KEY" dentro da const API_KEY na linha 5 do código pela sua chave API.
@@ -34,13 +30,6 @@ API_KEY = "YOUR_GOOGLE_API_KEY"
 ```
 
 ## Rodando a Aplicação
-
-### Back-End:
-
-1. Certifique-se de ter o Java instalado.
-2. Navegue até a pasta do projeto Helpdesk.
-3. Abra o projeto "Softtek AI API" na IDE IntelliJ.
-4. Execute o Arquivo "ProjectAI.java" no endereço "\src\main\java\com\projetoAI\Project\AI\testes\Project.java". Esse código possui um método main que permite a visualização de chamados da Softtek e obter, por meio de IA Generativa, soluções para os problemas encontrados nos chamados.
 
 ### Front-End + Back-End Integrado:
 
